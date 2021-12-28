@@ -7,7 +7,7 @@
 const char *ssid = "::::||::::::||:::::::||:::::";
 const char *password = "windows9";
 
-String FirmwareVer = "2.2";
+String FirmwareVer = "3.0";
 
 #define URL_fw_Version "https://raw.githubusercontent.com/41y08h/ESP8266_ESP32_SelfUpdate/master/esp32_ota/bin_version.txt"
 #define URL_fw_Bin "https://raw.githubusercontent.com/41y08h/ESP8266_ESP32_SelfUpdate/master/esp32_ota/firmware.bin"
